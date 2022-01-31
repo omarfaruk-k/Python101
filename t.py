@@ -10,6 +10,7 @@ def main():
 
 	for i in range(10):
 		print("N[{}] = {}".format(i,n[i]))
-		
+
+#checking commts 		
 if __name__ == '__main__':
     main()
