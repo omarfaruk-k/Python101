@@ -1,6 +1,6 @@
-count = 0
+pos_num = 0
 for i in range(6):
-    nums = float(input())
-    if(nums>0):
-       count+=1
-print(f'{count} valores positivos')
+    number = float(input())
+    if number > 0:
+        pos_num +=1
+print(f"{pos_num} valores positivos")
