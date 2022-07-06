@@ -2,7 +2,7 @@
 from tkinter import *
 import random
 import time
-
+#This code is not mine.
 
 class Ball:
     def __init__(self, canvas, paddle, color):
