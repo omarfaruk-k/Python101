@@ -1,2 +1,3 @@
-for i in range(1,5):
-    print(i)
+y = [int(input()) for i in range(10)]
+
+print(y)
